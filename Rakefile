@@ -16,7 +16,7 @@ task :count do
     total_characters = solution.length
     puts "-----------------------------------------------"
     puts "| Congratulations, you've completed the course."
-    puts "| Total characters: #{total_characters}        " 
+    puts "| Total characters: #{total_characters}        "
     puts "-----------------------------------------------"
   end
 end
